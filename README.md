@@ -2,7 +2,7 @@
 
 Goal: solve **300** LeetCode SQL problems at **3–4 per day** (about 75–100 days).
 
-**Progress: 4 / 300** · Started: 2026-09-25
+**Progress: 5 / 300** · Started: 2026-09-25
 
 ## Layout
 
@@ -23,6 +23,7 @@ Each file starts with a header:
 
 | # | Problem | Level | Topics | Solution |
 |---|---------|-------|--------|----------|
+| 185 | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/) | Hard | Window functions, CTE | [SQL](solutions/0185-department-top-three-salaries.sql) |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | Filtering, NULL handling | [SQL](solutions/0584-find-customer-referee.sql) |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | Filtering, OR | [SQL](solutions/0595-big-countries.sql) |
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | Filtering | [SQL](solutions/1757-recyclable-and-low-fat-products.sql) |
